@@ -1407,7 +1407,6 @@ body {
     line-height: 1.42857143;
     color: #333;
     background-color: #fff;
-    height: 100%;
 }
 
 input,
@@ -1998,7 +1997,7 @@ pre {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
 }
 
 @media (min-width: 768px) {
